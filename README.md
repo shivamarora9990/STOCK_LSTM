@@ -1,1 +1,2 @@
-# STOCK_LSTM
+# Deep Learning for Stock Price Prediction using LSTM Networks 
+In this project, I applied Long Short-Term Memory (LSTM) neural networks to predict stock prices using historical data. The project aimed to leverage the power of deep learning for time series forecasting, capturing long-term dependencies in stock market trends. I implemented an LSTM model using TensorFlow and Keras, tuned hyperparameters, and utilized data from Yahoo Finance for training. By comparing the performance of LSTM to traditional models, I demonstrated the advantages of deep learning in financial forecasting. The project enhanced my expertise in deep learning, Python, and the TensorFlow ecosystem, particularly for predictive analytics in financial markets.
